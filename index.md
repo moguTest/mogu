@@ -8,6 +8,6 @@
 <img src="0.jpg"/> 
 <img src="1.jpg"/>    
 <h1>蘑菇</h1>
-<p>我试试看看</p>
+<p>感谢米娜桑的访问qwq</p>
 </body>
 </html>
