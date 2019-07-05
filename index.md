@@ -22,8 +22,7 @@
     </style>
 <body>
 <audio src="https://www.kugou.com/song/#hash=9CD70CCF4E51DFB84CBE0D9EB814A928"controls="controls" autoplay="autoplay">
-</audio> 
-<img src="1.jpg"/>    
+</audio>  
 <h1>蘑菇</h1>
 <p>感谢米娜桑的访问qwq</p>
 <p>分享一下可能需要的软件吧（大概只针对设计类）
@@ -109,6 +108,6 @@
 </body>
 <p>纯氧对生物有害，毫无保留的真相，只会把人的精神击溃。一比五的氧与氮，才是可供呼吸的空气。同样，呼吸著以戏言稀释的少量真实，人才能维持健全的心。
     --《沙耶之歌》
-
+<img src="1.jpg"/>   
 </p>
 </html>
