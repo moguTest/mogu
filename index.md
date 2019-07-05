@@ -21,7 +21,7 @@
         }
     </style>
 <body>
-<audio src="https://www.kugou.com/song/#hash=9CD70CCF4E51DFB84CBE0D9EB814A928"controls="controls" autoplay="autoplay">
+<audio src="mp3/2.mp3" autoplay="autoplay">
 </audio>  
 <h1>蘑菇</h1>
 <p>感谢米娜桑的访问qwq</p>
