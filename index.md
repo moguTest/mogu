@@ -4,7 +4,7 @@
     <title>蘑菇の个人网站</title>
     <style  type="text/css">
         body{
-            background-image: url(./images/4.jpg);
+            background-image: url(./images/1.jpg);
             background-size: 100% 100%;
             height:100%;
         }
@@ -13,8 +13,6 @@
         }
     </style>
 <body>
-<img src="0.jpg"/>
-<img src="1.jpg"/>
 <h1>蘑菇</h1>
 <p>感谢米娜桑的访问qwq</p>
 <p>分享一下可能需要的软件吧（大概只针对设计类）
