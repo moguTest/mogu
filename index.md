@@ -5,7 +5,7 @@
     <title>蘑菇の</title>
     <style  type="text/css">
         body{
-            background-image: url(1.jpg);
+            background-image: url(3.jpg);
             background-size: 100% 100%;
             height:100%;
         }
