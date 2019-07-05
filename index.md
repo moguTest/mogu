@@ -20,7 +20,6 @@
             animation: myfirst 3s infinite;
         }
     </style>
-</head>
 <body>
 <img src="1.jpg"/>    
 <h1>蘑菇</h1>
