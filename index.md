@@ -4,7 +4,7 @@
     <title>蘑菇の个人网站</title>
     <style  type="text/css">
         body{
-            background-image: url(./images/3.jpg);
+            background-image: url(./images/4.jpg);
             background-size: 100% 100%;
             height:100%;
         }
