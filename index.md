@@ -101,8 +101,6 @@
 
 
 </body>
- <meta charset="UTF-8">
-    <title>蘑菇の</title>
     <style  type="text/css">
         body{
             background-image: url(4.jpg);
