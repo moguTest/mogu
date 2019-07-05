@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+<body>    
     <meta charset="UTF-8">
     <title>蘑菇の个人网站</title>
     <style  type="text/css">
@@ -12,7 +13,7 @@
             height: 100%;
         }
     </style>
-<body>
+
 <h1>蘑菇</h1>
 <p>感谢米娜桑的访问qwq</p>
 <p>分享一下可能需要的软件吧（大概只针对设计类）
