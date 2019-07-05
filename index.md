@@ -20,6 +20,7 @@
             animation: myfirst 3s infinite;
         }
     </style>
+</head>    
 <body>
 <audio src="2.mp3" controls="controls" autoplay"autoplay"}>
 </audio>  
