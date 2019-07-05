@@ -17,7 +17,7 @@
             to {opacity: 100}
         }
         h1{
-            animation: myfirst 5s infinite;
+            animation: myfirst 3s infinite;
         }
     </style>
 </head>
