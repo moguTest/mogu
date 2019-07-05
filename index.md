@@ -106,11 +106,6 @@
     <style  type="text/css">
         body{
             background-image: url(4.jpg);
-            background-size: 100% 100%;
-            height:100%;
-        }
-        html{
-            height: 100%;
         }
 <p>纯氧对生物有害，毫无保留的真相，只会把人的精神击溃。一比五的氧与氮，才是可供呼吸的空气。同样，呼吸著以戏言稀释的少量真实，人才能维持健全的心。
     --《沙耶之歌》
