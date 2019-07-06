@@ -24,8 +24,8 @@
         75%  {background: pink;}
         100% {background: lavender;}
     }
-    h1，p{
-        font-size:100px;
+    h1{
+        font-size:40px;
         animation: myfirst 3s infinite;
         animation-timing-function: linear;
     }
