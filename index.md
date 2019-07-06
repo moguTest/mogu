@@ -17,11 +17,11 @@
               to {opacity: 100}
           }
           @keyframes mysecond {
-              0%   {background: red;}
+              0%   {background: lavender;}
               25%  {background: yellow;}
-              50%  {background: blue;}
+              50%  {background: navy blue;}
               75%  {background: pink;}
-              100% {background: red;}
+              100% {background: lavender;}
           }
            h1，p{
                font-size:100px;
