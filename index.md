@@ -1,36 +1,37 @@
 <html lang="en">
 <head>
 <body>
-     <meta charset="UTF-8">
-     <title>蘑菇の</title>
-     <style  type="text/css">
-          body{
-               background-image: url(3.jpg);
-               background-size: 100% 100%;
-               height:100%;
-          }
-          html{
-               height: 100%;
-          }
-          @keyframes myfirst {
-              from {opacity:0}
-              to {opacity: 100}
-          }
-          @keyframes mysecond {
-              0%   {background: lavender;}
-              25%  {background: yellow;}
-              50%  {background: navy blue;}
-              75%  {background: pink;}
-              100% {background: lavender;}
-          }
-           h1，p{
-               font-size:100px;
-               animation: myfirst 3s infinite;
-          }
-         #fangwen{
-             animation: mysecond 8s infinite;
-         }
-     </style>
+<meta charset="UTF-8">
+<title>蘑菇の</title>
+<style  type="text/css">
+    body{
+        background-image: url(3.jpg);
+        background-size: 100% 100%;
+        height:100%;
+    }
+    html{
+        height: 100%;
+    }
+    @keyframes myfirst {
+        0%{opacity: 0}
+        50%{opacity: 100}
+        100%{opacity: 0}
+    }
+    @keyframes mysecond {
+        0%   {background: lavender;}
+        25%  {background: yellow;}
+        50%  {background: navy blue;}
+        75%  {background: pink;}
+        100% {background: lavender;}
+    }
+    h1，p{
+        font-size:100px;
+        animation: myfirst 3s infinite;
+    }
+    #fangwen{
+        animation: mysecond 8s infinite;
+    }
+</style>
 <body>
 <audio src="2.mp3" controls="controls"  autoplay="autoplay">
 </audio>
@@ -57,10 +58,10 @@
     Ps（设计类估计都要用，用数位板画画也能用这个，或者sai也行，我当年以为这软件烧主板，结果他比ae还烧显卡）
     https://pan.baidu.com/s/1xe34roeR7p_O0BIAGxBRlQ
     密码snst
-    
-    
-    
-   Au（这个好像就是高中老师给我们的音频软件的现代版，不用说混音，修音用的，做鬼畜是其他软件）
+
+
+
+    Au（这个好像就是高中老师给我们的音频软件的现代版，不用说混音，修音用的，做鬼畜是其他软件）
     https://pan.baidu.com/s/1Gg29VA3WDZfEqfR-7nWVfg
     密码n3mm
 
