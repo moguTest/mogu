@@ -1,28 +1,30 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<body>    
-    <meta charset="UTF-8">
-    <title>蘑菇の</title>
-    <style  type="text/css">
-        body{
-            background-image: url(3.jpg);
-            background-size: 100% 100%;
-            height:100%;
-        }
-        html{
-            height: 100%;
-        }
-         @keyframes myfirst {
-            from {opacity:0}
-            to {opacity: 100}
-        }
-        h1{
-            animation: myfirst 3s infinite;
-        }
-    </style>    
+<body>
+     <meta charset="UTF-8">
+     <title>蘑菇の</title>
+     <style  type="text/css">
+          body{
+               background-image: url(3.jpg);
+               background-size: 100% 100%;
+               height:100%;
+          }
+          html{
+               height: 100%;
+          }
+          @keyframes myfirst {
+              from {opacity:0}
+              to {opacity: 100}
+          }
+           h1，p{
+               font-size:100px;
+               animation: myfirst 3s infinite;
+          }
+     </style>
 <body>
 <audio src="2.mp3" controls="controls"  autoplay="autoplay">
-</audio>  
+</audio>
 <h1>蘑菇</h1>
 <p>感谢米娜桑的访问qwq</p>
 <p>分享一下可能需要的软件吧（大概只针对设计类）
@@ -30,15 +32,15 @@
     AE（特效，立体，视觉等方面可能用）
 
     2019版非win10系统不能用：
-   https://pan.baidu.com/s/1j4mO1macWhqVlomvDUr56w
+    https://pan.baidu.com/s/1j4mO1macWhqVlomvDUr56w
     密码vkph
     17年版本都可以用（反正我用的这个），破解器在里面，安装教程自己找
-     https://pan.baidu.com/s/1N9EzWaqmbWecv9F_Y6o-AQ
+    https://pan.baidu.com/s/1N9EzWaqmbWecv9F_Y6o-AQ
     密码gtxc
 
 
     Pr（视频剪辑，估计应该只会在摄影，数媒，社团里面用，里面应该有破解器，没有去其他链接找）
-     https://pan.baidu.com/s/1-vaxHSAsgdq5pFIx8c1P8Q
+    https://pan.baidu.com/s/1-vaxHSAsgdq5pFIx8c1P8Q
     密码4pau
 
 
@@ -61,7 +63,7 @@
 
 
     Fl（做动画的，我不会玩，动画专业看看，15年后的版本改名了，自己找吧）
-     https://pan.baidu.com/s/12Gy8tSjgDzHIhF0p2WatNw
+    https://pan.baidu.com/s/12Gy8tSjgDzHIhF0p2WatNw
     密码c71o
     （另外的AI（玩矢量图形的，可能用吧）、Dw(做网站的）、Br等要用的话直接注册Adobe账号下载破解就行了，2017版应该可以破解2019版的
 
@@ -74,7 +76,7 @@
     https://pan.baidu.com/s/10D6dhLxtmcLX76fsZTR7Yw
     密码5gzy
     官网
-     https://www.live2d.com/en/download
+    https://www.live2d.com/en/download
 
     MIKUMIKUDANCE（做MAD用的，网上有下载，贴吧有素材）
 
@@ -100,7 +102,7 @@
 
 
     其他的去
-  http://www.cncrk.com/
+    http://www.cncrk.com/
     （本来有个网站都有的，然后他被封了）</p>
 
 
