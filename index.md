@@ -27,9 +27,11 @@
     h1，p{
         font-size:100px;
         animation: myfirst 3s infinite;
+        animation-timing-function: linear;
     }
     #fangwen{
         animation: mysecond 8s infinite;
+        animation-timing-function: ease;
     }
 </style>
 <body>
