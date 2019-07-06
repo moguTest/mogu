@@ -35,7 +35,7 @@
     }
 </style>
 <body>
-<audio src="2.mp3" controls="controls"  autoplay="autoplay">
+<audio src="4.mp3" controls="controls"  autoplay="autoplay">
 </audio>
 <h1>蘑菇</h1>
 <p id="fangwen">感谢米娜桑的访问qwq</p>
