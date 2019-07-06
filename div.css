@@ -1,0 +1,166 @@
+html,body,div{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+div{
+    height: 100%;
+    font-size:200px;
+    position:absolute;
+    text-align:center;
+    padding-top:50%;
+    padding-left: 50%;
+}
+#h{
+    color: #b3d4fc;
+    animation:h 10s infinite;
+}
+#y{
+    color: bisque;
+    animation:y 10s infinite;
+}
+#l{
+    color: lightgreen;
+    animation:l 10s infinite;
+}
+#d{
+    color: pink;
+    animation:d 10s infinite;
+}
+#m{
+    color: yellow;
+    animation:m 10s infinite;
+}
+#g{
+    color: tomato;
+    animation:g 10s infinite;
+}
+#d{
+    color: seashell;
+    animation:d 10s infinite;
+}
+#s{
+    color: lightyellow;
+    animation:s 10s infinite;
+}
+#j{
+    color: lightskyblue;
+    animation:j 10s infinite;
+}
+@keyframes h {
+    0%{opacity:0}
+    10%{opacity:100}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes y {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:100}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes l {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:100}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes d {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:100}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes m {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:100}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes g {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:100}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes d {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:100}
+    80%{opacity:0}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes s {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:100}
+    90%{opacity:0}
+    100%{opacity:0}
+}
+@keyframes j {
+    0%{opacity:0}
+    10%{opacity:0}
+    20%{opacity:0}
+    30%{opacity:0}
+    40%{opacity:0}
+    50%{opacity:0}
+    60%{opacity:0}
+    70%{opacity:0}
+    80%{opacity:0}
+    90%{opacity:100}
+    100%{opacity:0}
+}
