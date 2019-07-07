@@ -17,7 +17,7 @@
     </script>
 </head>
 <body onload="audioAutoPlay('bgm');">
-<audio id="bgm" src="2.mp3" preload="auto" autoplay="autoplay"></audio>
+<audio id="bgm" src="4.mp3" preload="auto" autoplay="autoplay"></audio>
 <div id="h">欢</div>
 <div id="y">迎</div>
 <div id="l">来</div>
@@ -31,8 +31,8 @@
     <span id="z">qwq</span>
 </div>
 <h1>蘑菇</h1>
-<p id="fangwen">感谢米娜桑的访问qwq</p>
-<p id="b">分享一下可能需要的软件吧（大概只针对设计类）
+<p >感谢米娜桑的访问qwq</p>
+<p >分享一下可能需要的软件吧（大概只针对设计类）
 
     AE（特效，立体，视觉等方面可能用）
 
