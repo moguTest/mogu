@@ -1,35 +1,38 @@
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>蘑菇の家</title>
-<link rel="stylesheet" type="text/css" href="div.css"/>
-<script>
-    function audioAutoPlay(id){
-        var audio = document.getElementById(id);
-        audio.play();
-        document.addEventListener("WeixinJSBridgeReady", function () {
+    <meta charset="UTF-8">
+    <title>蘑菇の家</title>
+    <link rel="stylesheet" type="text/css" href="div.css"/>
+    <script>
+        function audioAutoPlay(id){
+            var audio = document.getElementById(id);
             audio.play();
-        }, false);
-        document.addEventListener('YixinJSBridgeReady', function() {
-            audio.play();
-        }, false);
-    }
+            document.addEventListener("WeixinJSBridgeReady", function () {
+                audio.play();
+            }, false);
+            document.addEventListener('YixinJSBridgeReady', function() {
+                audio.play();
+            }, false);
+        }
     </script>
 </head>
 <body onload="audioAutoPlay('bgm');">
 <audio id="bgm" src="4.mp3" preload="auto" autoplay="autoplay"></audio>
-<div id="h"></div>
-<div id="y"></div>
-<div id="l"></div>
-<div id="d"></div>
-<div id="m"></div>
-<div id="g"></div>
-<div id="d"></div>
-<div id="s"></div>
+
+<div id="h">欢</div>
+<div id="y">迎</div>
+<div id="l">来</div>
+<div id="d">到</div>
+<div id="m">蘑菇</div>
+<div id="g">の</div>
+<div id="q">理</div>
+<div id="s">想</div>
 <div id="j">
-    园
+    乡
     <span id="z">qwq</span>
 </div>
+</body>
+<body>
 <h1>蘑菇</h1>
 <p >感谢米娜桑的访问qwq</p>
 <p >分享一下可能需要的软件吧（大概只针对设计类）
@@ -124,6 +127,6 @@
 
 
 </body>
-<p id="v">岁月本长，而忙者自促；天地本宽，而鄙者自隘；风花雪月本闲，而扰攘者自冗。--洪应明 菜根谭
+<p >梦想，可以天花乱坠，理想，是我们一步一个脚印踩出来的坎坷道路。--三毛 《亲爱的三毛》
 
 </p>
