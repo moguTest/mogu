@@ -1,5 +1,5 @@
 body{
-    background-image: url(3.jpg);
+    background-image: url(1.jpg);
     background-size: 100% 100%;
     height:100%;
 }
@@ -20,7 +20,7 @@ html{
 }
 h1{
     font-size:40px;
-    animation: myfirst 3s infinite;
+    animation: myfirst 5s infinite;
     animation-timing-function: linear;
 }
 #fangwen{
@@ -41,54 +41,72 @@ div{
     padding-left: 0%;
 }
 #h{
-    background-image:url("../scratches/3.jpg");
+    background-image:url("1.jpg");
+    background-size: 100% 100%;
+    height:100%;
     color: #b3d4fc;
-    animation:h 10s infinite;
+    animation:h 30s infinite;
 }
 #y{
-    background-image:url("../scratches/006.jpg")
+    background-image:url("4.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: bisque;
-    animation:y 10s infinite;
+    animation:y 30s infinite;
 }
 #l{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("12.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: lightgreen;
-    animation:l 10s infinite;
+    animation:l 30s infinite;
 }
 #d{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("6.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: pink;
-    animation:d 10s infinite;
+    animation:d 30s infinite;
 }
 #m{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("7.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: yellow;
-    animation:m 10s infinite;
+    animation:m 30s infinite;
 }
 #g{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("8.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: tomato;
-    animation:g 10s infinite;
+    animation:g 30s infinite;
 }
 #d{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("9.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: seashell;
-    animation:d 10s infinite;
+    animation:d 30s infinite;
 }
 #s{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("10.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: lightyellow;
-    animation:s 10s infinite;
+    animation:s 30s infinite;
 }
 #j{
-    background-image:url("../scratches/4.jpg")
+    background-image:url("11.jpg")
+    background-size: 100% 100%;
+    height:100%;    
     color: lightskyblue;
-    animation:j 10s infinite;
+    animation:j 30s infinite;
 }
 #z{
 
     display: block;
-    animation: z 10s infinite
+    animation: z 30s infinite
 }
 @keyframes h {
     0%{opacity:0}
