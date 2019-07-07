@@ -1,45 +1,38 @@
 <html lang="en">
 <head>
-<body>
 <meta charset="UTF-8">
-<title>蘑菇の</title>
-<style  type="text/css">
-    body{
-        background-image: url(3.jpg);
-        background-size: 100% 100%;
-        height:100%;
+<title>蘑菇の家</title>
+<link rel="stylesheet" type="text/css" href=".css"/>
+<script>
+    function audioAutoPlay(id){
+        var audio = document.getElementById(id);
+        audio.play();
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            audio.play();
+        }, false);
+        document.addEventListener('YixinJSBridgeReady', function() {
+            audio.play();
+        }, false);
     }
-    html{
-        height: 100%;
-    }
-    @keyframes myfirst {
-        0%{opacity: 0}
-        50%{opacity: 100}
-        100%{opacity: 0}
-    }
-    @keyframes mysecond {
-        0%   {background: lavender;}
-        25%  {background: yellow;}
-        50%  {background: navy blue;}
-        75%  {background: pink;}
-        100% {background: lavender;}
-    }
-    h1{
-        font-size:40px;
-        animation: myfirst 3s infinite;
-        animation-timing-function: linear;
-    }
-    #fangwen{
-        animation: mysecond 8s infinite;
-        animation-timing-function: ease;
-    }
-</style>
-<body>
-<audio src="4.mp3" controls="controls"  autoplay="autoplay">
-</audio>
+    </script>
+</head>
+<body onload="audioAutoPlay('bgm');">
+<audio id="bgm" src="2.mp3" preload="auto" autoplay="autoplay"></audio>
+<div id="h">欢</div>
+<div id="y">迎</div>
+<div id="l">来</div>
+<div id="d">到</div>
+<div id="m">蘑</div>
+<div id="g">菇</div>
+<div id="d">の</div>
+<div id="s">花</div>
+<div id="j">
+    园
+    <span id="z">qwq</span>
+</div>
 <h1>蘑菇</h1>
 <p id="fangwen">感谢米娜桑的访问qwq</p>
-<p>分享一下可能需要的软件吧（大概只针对设计类）
+<p id="b">分享一下可能需要的软件吧（大概只针对设计类）
 
     AE（特效，立体，视觉等方面可能用）
 
@@ -69,10 +62,23 @@
 
 
 
-    Fl（做动画的，我不会玩，动画专业看看，15年后的版本改名了，自己找吧）
+    Fl（做动画的，我不会玩，动画专业看看，15年后的版本改名了）
     https://pan.baidu.com/s/12Gy8tSjgDzHIhF0p2WatNw
     密码c71o
-    （另外的AI（玩矢量图形的，可能用吧）、Dw(做网站的）、Br等要用的话直接注册Adobe账号下载破解就行了，2017版应该可以破解2019版的
+
+    an（新版做动画的，看学校用哪个）
+    https://pan.baidu.com/s/1UQZpV8WMEy3ML0fHx2boFQ
+    密码njpq
+
+    另外的AI（玩矢量图形的，可能用吧）
+    https://pan.baidu.com/s/1K8aDAWtg5K6qIuD8NT3ORg
+    密码xs77
+
+
+    Dw(做网站的）
+    https://pan.baidu.com/s/14lQKzt6dPmCbfR5P6gvz6Q
+    密码yz55
+
 
     Vegas（像ae和pr结合后的上古版本，新人可以玩玩，反正我当年用几天就卸载了）
     https://pan.baidu.com/s/1mKlOxzuT3jLPS59uKhBVBg
@@ -98,22 +104,26 @@
 
     c4d（做3d建模的，ae好像自带一个）
 
+    3d max（也是3d建模）
+    https://pan.baidu.com/s/1Fj9rLwfzi6DTTpXWe3c_EA
+    密码le7x
 
     图片高清化（好玩用的，用得少）
     https://pan.baidu.com/s/1iVzVpvw8URCjEyaW4pk7xw
 
+    light romm （忘了做什么的了，可能是建筑设计之类的）
+    https://pan.baidu.com/s/1aQfyPwKMEC1zzTfFJbUKkw
+    密码kxef
 
     然后，有些东西可以直接用网站
     http://www.aigei.com/
     （下载好多东西的，这个应该是最实用的）
 
 
-    其他的去
-    http://www.cncrk.com/
-    （本来有个网站都有的，然后他被封了）</p>
+</p>
 
 
 </body>
-<p>岁月本长，而忙者自促；天地本宽，而鄙者自隘；风花雪月本闲，而扰攘者自冗。--洪应明 菜根谭
+<p id="v">岁月本长，而忙者自促；天地本宽，而鄙者自隘；风花雪月本闲，而扰攘者自冗。--洪应明 菜根谭
 
 </p>
