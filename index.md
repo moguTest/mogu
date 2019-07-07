@@ -19,17 +19,17 @@
 <body onload="audioAutoPlay('bgm');">
 <audio id="bgm" src="4.mp3" preload="auto" autoplay="autoplay"></audio>
 
-<div id="h">欢</div>
-<div id="y">迎</div>
-<div id="l">来</div>
-<div id="d">到</div>
-<div id="m">蘑菇</div>
-<div id="g">の</div>
-<div id="q">理</div>
-<div id="s">想</div>
+<div id="h"></div>
+<div id="y"></div>
+<div id="l"></div>
+<div id="d"></div>
+<div id="m"></div>
+<div id="g"></div>
+<div id="q"></div>
+<div id="s"></div>
 <div id="j">
-    乡
-    <span id="z">qwq</span>
+    
+    <span id="z"></span>
 </div>
 </body>
 <body>
