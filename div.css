@@ -33,12 +33,12 @@ html,body,div{
     margin:0;
 }
 div{
-    height: 100%;
-    font-size:20px;
+    height: 50%;
+    font-size:50px;
     position:absolute;
     text-align:center;
-    padding-top:100%;
-    padding-left: 100%;
+    padding-top:50%;
+    padding-left: 50%;
 }
 #h{
     background-image:url("1.jpg");
