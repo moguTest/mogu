@@ -18,14 +18,14 @@
 </head>
 <body onload="audioAutoPlay('bgm');">
 <audio id="bgm" src="4.mp3" preload="auto" autoplay="autoplay"></audio>
-<div id="h">欢</div>
-<div id="y">迎</div>
-<div id="l">来</div>
-<div id="d">到</div>
-<div id="m">蘑</div>
-<div id="g">菇</div>
-<div id="d">の</div>
-<div id="s">花</div>
+<div id="h"></div>
+<div id="y"></div>
+<div id="l"></div>
+<div id="d"></div>
+<div id="m"></div>
+<div id="g"></div>
+<div id="d"></div>
+<div id="s"></div>
 <div id="j">
     园
     <span id="z">qwq</span>
