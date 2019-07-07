@@ -1,8 +1,3 @@
-body{
-    background-image: url(1.jpg);
-    background-size: 100% 100%;
-    height:100%;
-}
 html{
     height: 100%;
 }
@@ -41,73 +36,80 @@ div{
     padding-left: 0%;
 }
 #h{
-    background-image:url("1.jpg");
+    background-image:url("../scratches/3.jpg");
     background-size: 100% 100%;
     height:100%;
     color: #b3d4fc;
-    animation:h 30s infinite;
+    animation:h 20s infinite;
 }
 #y{
-    background-image:url("4.jpg")
+    background-image:url("../scratches/006.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: bisque;
-    animation:y 30s infinite;
+    animation:y 20s infinite;
 }
 #l{
-    background-image:url("12.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: lightgreen;
-    animation:l 30s infinite;
+    animation:l 20s infinite;
 }
 #d{
-    background-image:url("6.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: pink;
-    animation:d 30s infinite;
+    animation:d 20s infinite;
 }
 #m{
-    background-image:url("7.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: yellow;
-    animation:m 30s infinite;
+    animation:m 20s infinite;
 }
 #g{
-    background-image:url("8.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: tomato;
-    animation:g 30s infinite;
+    animation:g 20s infinite;
 }
 #d{
-    background-image:url("9.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: seashell;
-    animation:d 30s infinite;
+    animation:d 20s infinite;
 }
 #s{
-    background-image:url("10.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: lightyellow;
-    animation:s 30s infinite;
+    animation:s 20s infinite;
 }
 #j{
-    background-image:url("11.jpg")
+    background-image:url("../scratches/4.jpg");
     background-size: 100% 100%;
-    height:100%;    
+    height:100%;
     color: lightskyblue;
-    animation:j 30s infinite;
+    animation:j 20s infinite;
 }
 #z{
 
     display: block;
-    animation: z 30s infinite
+    animation: z 10s infinite
 }
+#b{
+    color:white;
+}
+#v{
+    color:white;
+}
+
 @keyframes h {
     0%{opacity:0}
     10%{opacity:100}
@@ -224,4 +226,30 @@ div{
     80%{opacity:0}
     90%{opacity:100}
     100%{opacity:0}
+}
+@keyframes b {
+    0%{opacity:100}
+    10%{opacity:100}
+    20%{opacity:100}
+    30%{opacity:100}
+    40%{opacity:100}
+    50%{opacity:100}
+    60%{opacity:100}
+    70%{opacity:100}
+    80%{opacity:100}
+    90%{opacity:100}
+    100%{opacity:100}
+}
+@keyframes v {
+    0%{opacity:100}
+    10%{opacity:100}
+    20%{opacity:100}
+    30%{opacity:100}
+    40%{opacity:100}
+    50%{opacity:100}
+    60%{opacity:100}
+    70%{opacity:100}
+    80%{opacity:100}
+    90%{opacity:100}
+    100%{opacity:100}
 }
