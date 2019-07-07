@@ -1,3 +1,8 @@
+body{
+    background-image: url(3.jpg);
+    background-size: 100% 100%;
+    height:100%;
+}
 html{
     height: 100%;
 }
@@ -101,13 +106,7 @@ div{
 #z{
 
     display: block;
-    animation: z 10s infinite
-}
-#b{
-    color:white;
-}
-#v{
-    color:white;
+    animation: z 30s infinite
 }
 
 @keyframes h {
