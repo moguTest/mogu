@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <title>蘑菇の家</title>
-<link rel="stylesheet" type="text/css" href=".css"/>
+<link rel="stylesheet" type="text/css" href="div.css"/>
 <script>
     function audioAutoPlay(id){
         var audio = document.getElementById(id);
