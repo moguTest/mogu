@@ -18,7 +18,21 @@
 </head>
 <body onload="audioAutoPlay('bgm');">
 <audio id="bgm" src="4.mp3" preload="auto" autoplay="autoplay"></audio>
+    <script>
+        function woDeTaoLu(){
+            alert("欢迎来到蘑菇的网站qwq");
+            alert("更新公告在后面，请记得看看 ");
+            alert("更新公告：");
+        }
 
+        woDeTaoLu();
+        alert("1.优化界面（你们不能复制粘贴了）");
+        alert("2.更新了音乐播放器(可能手机端播不了)");
+        alert("3.内容优化");
+        alert("4.更新了动态页面（以后会变成背景）");
+        alert("5.更新了页面警告（就是你看到的这个）");
+        alert("感谢您的拜访，最后祝您身体健康，再见");
+    </script>
 <div id="h"></div>
 <div id="y"></div>
 <div id="l"></div>
@@ -28,7 +42,7 @@
 <div id="q"></div>
 <div id="s"></div>
 <div id="j">
-    
+
     <span id="z"></span>
 </div>
 </body>
