@@ -37,72 +37,80 @@ div{
     font-size:100px;
     position:absolute;
     text-align:center;
-    padding-top:0;
-    padding-left: 5%;
 }
+
 #h{
     background-image:url("1.jpg");
     background-size: 100% 100%;
     height:100%;
-    color: #b3d4fc;
     animation:h 60s infinite;
 }
+html{
+    height: 100%;}
 #y{
     background-size: 100% 100%;
     height:100%;
     background-image:url("4.jpg");
-    color: bisque;
     animation:y 60s infinite;
 }
+html{
+    height: 100%;}
 #l{
     background-size: 100% 100%;
     height:100%;
     background-image:url("6.jpg");
-    color: lightgreen;
     animation:l 60s infinite;
 }
+html{
+    height: 100%;}
 #d{
     background-size: 100% 100%;
     height:100%;
     background-image:url("7.jpg");
-    color: pink;
     animation:d 60s infinite;
 }
+html{
+    height: 100%;}
 #m{
     background-size: 100% 100%;
     height:100%;
     background-image:url("8.jpg");
-    color: yellow;
     animation:m 60s infinite;
 }
+html{
+    height: 100%;}
 #g{
     background-size: 100% 100%;
     height:100%;
     background-image:url("9.jpg");
-    color: tomato;
     animation:g 60s infinite;
 }
+html{
+    height: 100%;}
 #q{
     background-size: 100% 100%;
     height:100%;
     background-image:url("10.jpg");
-    color: seashell;
     animation:d 60s infinite;
 }
+html{
+    height: 100%;}
 #s{
     background-size: 100% 100%;
     height:100%;
     background-image:url("11.jpg");
-    color: lightyellow;
     animation:s 60s infinite;
 }
+html{
+    height: 100%;}
 #j{
     background-size: 100% 100%;
     height:100%;
     background-image:url("12.jpg");
-    color: lightskyblue;
     animation:j 60s infinite;
 }
+html{
+    height: 100%;}
 #z{
 
     display: block;
