@@ -1,4 +1,4 @@
-v<html lang="en">
+vv<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>蘑菇の家</title>
@@ -88,59 +88,4 @@ v<html lang="en">
     密码njpq
 
     另外的AI（玩矢量图形的，可能用吧）
-    https://pan.baidu.com/s/1K8aDAWtg5K6qIuD8NT3ORg
-    密码xs77
-
-
-    Dw(做网站的）
-    https://pan.baidu.com/s/14lQKzt6dPmCbfR5P6gvz6Q
-    密码yz55
-
-
-    Vegas（像ae和pr结合后的上古版本，新人可以玩玩，反正我当年用几天就卸载了）
-    https://pan.baidu.com/s/1mKlOxzuT3jLPS59uKhBVBg
-    密码jndh
-
-
-    LIVE  2d （认识的人都知道干嘛的，不过有限时，时间到了删掉再下就行了）
-    https://pan.baidu.com/s/10D6dhLxtmcLX76fsZTR7Yw
-    密码5gzy
-    官网
-    https://www.live2d.com/en/download
-
-    MIKUMIKUDANCE（做MAD用的，网上有下载，贴吧有素材）
-
-
-
-    OBS（录屏的）
-
-    小丸工具箱（压缩视频的，不会用格式工厂用这个）
-
-
-    FL 	studio（做电音的）
-
-    c4d（做3d建模的，ae好像自带一个）
-
-    3d max（也是3d建模）
-    https://pan.baidu.com/s/1Fj9rLwfzi6DTTpXWe3c_EA
-    密码le7x
-
-    图片高清化（好玩用的，用得少）
-    https://pan.baidu.com/s/1iVzVpvw8URCjEyaW4pk7xw
-
-    light romm （忘了做什么的了，可能是建筑设计之类的）
-    https://pan.baidu.com/s/1aQfyPwKMEC1zzTfFJbUKkw
-    密码kxef
-
-    然后，有些东西可以直接用网站
-    http://www.aigei.com/
-    （下载好多东西的，这个应该是最实用的）
-
-
-</p>
-
-
-</body>
-<p > 如果有来生，要做一棵树，站成永恒，没有悲欢的姿势，一半在土里安详，一半在风里飞扬，一半洒落阴凉，一半沐浴阳光，非常沉默非常骄傲，从不依靠 从不寻找。 ——三毛
-
-</p>
+    https://pan.baidu.com/s/1
