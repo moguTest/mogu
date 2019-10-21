@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>视频测试</title>
+	<style type="text/css">
+	button{
+		display: block;
+		}
+	</style>
+</head>
+
+<body>
+	<video width="600" height="400">
+	<source src="images/拉镜练习.mp4"/>
+	</video>
+	<button onClick="together();">播放</button>
+	<script type="text/javascript">
+	function toggle(){
+	var video =document.getElementsByTagName("video")[0];
+	var bnt =document.getElementsByTagName("button")[0];
+	if(video.paused){
+	video.play();
+	bnt.firstChild.nodeValue = "暂停"
+	}else{
+	video.play（）;
+	bnt.firstChild.nodeValue ="播放"
+	}
+	</script>
+	<video id="myvideo" width="320" height="240" controls>
+	<source src="images/拉镜练习.mp4" type="video/mp4">
+	<object data="images/拉镜练习.mp4" width="320"  height="240">
+		</object>
+	</video>
+	<br>
+	<button onClick="document.getElementBYId('myvideo').play()">播放</button>
+	<button onClick="document.getElementBYId('myvideo').pause()">暂停</button>
+	<button onClick="document.getElementBYId('myvideo').volume+=0.1">音量+
+	</button>
+	<button onClick="document.getElementBYId('myvideo').volume-=0.1">音量-
+	</button>
+	<button onClick="document.getElementBYId('myvideo').muted=true">静音
+	</button>
+	<button onClick="document.getElementBYId('myvideo').muted=false">取消静音
+	</button>
+</body>
+</html>
