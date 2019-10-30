@@ -1,0 +1,12 @@
+.la-ball-atom {
+    color: #79bbb5;
+}
+la-ball-atom > div:nth-child(1) {
+    color: #f4696b;
+}
+.la-ball-atom > div:nth-child(2) {
+    color: #87c4a3;
+}
+.la-ball-atom > div:nth-child(3) {
+    color: #fec54f;
+}
